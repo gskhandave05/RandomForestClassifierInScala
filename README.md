@@ -18,6 +18,5 @@ Data file :
 Source file :
 1. PredictiveAnalysisSparkML.scala
 
-Final report report : 
-1. Final_Project.pdf
-It gives an overview of our entire report
+Accuracy of model :
+97.03%
